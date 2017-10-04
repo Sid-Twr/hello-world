@@ -1,3 +1,3 @@
 # hello-world
-Just getting started !!
+Just getting started !
 Start your day with a hot cup of coffee. 
